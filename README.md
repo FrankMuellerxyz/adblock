@@ -2,7 +2,7 @@
 
 ![ublock-image](/src/ublock-origin.png)
 
-## To add the custom lists shown in the above picture click each link. 
+## To add custom lists to uBlock origin shown in the above picture click each link. 
 
 [ 🚪 Browse websites without logging in](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt&title=Browse%20websites%20without%20logging%20in)
 
@@ -22,7 +22,9 @@
 
 ![brave-shield-image](/src/brave-shield.png)
 
-## To add the custom lists to Brave Shield, visit: `brave://settings/shields/filters` and add the lists manually.
+## To add custom lists to Brave Shield shown in the above picture, visit: 
+
+### `brave://settings/shields/filters`
 
 `https://fuckfuckadblock.pages.dev/fuckfuckadblock.txt`
 
