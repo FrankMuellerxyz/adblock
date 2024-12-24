@@ -2,12 +2,12 @@
 
 ![ublock-image](/src/ublock-origin.png)
 
+## To add the custom lists shown in the above picture click each link. 
+
+
 # [Brave Shield](https://brave.com/shields/)
 
 ![brave-shield-image](/src/brave-shield.png)
-
-
-## To add the custom lists shown in the above picture click each link. 
 
 ## To add the custom lists to Brave Shield, visit: `brave://settings/shields/filters` and add the lists manually.
 
