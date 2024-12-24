@@ -41,3 +41,4 @@
 #### Sources
 [1](https://github.com/yokoffing/filterlists)
 [2](https://github.com/gijsdev/ublock-hide-yt-shorts)
+[3](https://github.com/bogachenko/fuckfuckadblock)
