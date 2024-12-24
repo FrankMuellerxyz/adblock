@@ -22,7 +22,7 @@
 
 ![brave-shield-image](/src/brave-shield.png)
 
-## To add custom lists to Brave Shield shown in the above picture, visit: `brave://settings/shields/filters` and copy and paste the following URL's manually.
+## To add custom lists to Brave Shield shown in the above picture, visit: `brave://adblock` and copy and paste the following URL's manually.
 
 `https://fuckfuckadblock.pages.dev/fuckfuckadblock.txt`
 
