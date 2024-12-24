@@ -2,6 +2,8 @@
 
 ![ublock-image](/src/ublock-origin.png)
 
+# [Brave Shield](https://brave.com/shields/)
+
 ![brave-shield-image](/src/brave-shield.png)
 
 
