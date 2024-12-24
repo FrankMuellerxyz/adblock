@@ -2,7 +2,7 @@
 
 ![ublock-image](/src/ublock-origin.png)
 
-## [Brave Shield](https://brave://settings/shields/filters)
+## [Brave Shield](brave://settings/shields/filters)
 
 To add the lists shown in the above picture click each link 
 
