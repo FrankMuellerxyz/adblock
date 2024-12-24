@@ -24,19 +24,19 @@
 
 ## To add the custom lists to Brave Shield, visit: `brave://settings/shields/filters` and add the lists manually.
 
+`https://fuckfuckadblock.pages.dev/fuckfuckadblock.txt`
+
 `https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt`
 
-`https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt`
-
-`https://raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_list.txt`
-
-`https://raw.githubusercontent.com/yokoffing/filterlists/main/youtube_clear_view.txt`
+`https://raw.githubusercontent.com/gijsdev/ublock-hide-yt-shorts/master/list.txt`
 
 `https://raw.githubusercontent.com/liamengland1/miscfilters/master/antipaywall.txt`
 
-`https://fuckfuckadblock.pages.dev/fuckfuckadblock.txt`
+`https://raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_list.txt`
 
-`https://raw.githubusercontent.com/gijsdev/ublock-hide-yt-shorts/master/list.txt`
+`https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt`
+
+`https://raw.githubusercontent.com/yokoffing/filterlists/main/youtube_clear_view.txt`
 
 #### Sources
 [1](https://github.com/yokoffing/filterlists)
