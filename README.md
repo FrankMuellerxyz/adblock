@@ -24,7 +24,7 @@
 
 ## To add custom lists to Brave Shield shown in the above picture, visit: 
 
-### `brave://settings/shields/filters`
+## `brave://settings/shields/filters`
 
 `https://fuckfuckadblock.pages.dev/fuckfuckadblock.txt`
 
