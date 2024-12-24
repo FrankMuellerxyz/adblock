@@ -2,14 +2,9 @@
 
 ![ublock-image](/src/ublock-origin.png)
 
-## [Brave Shield](brave://settings/shields/filters)
-
-`brave://settings/shields/filters`
-
 To add the lists shown in the above picture click each link 
 
-To add block lists to brave, such as on
-
+To add block lists to Brave Shield, visit: `brave://settings/shields/filters`
 
 [ 🚪 Browse websites without logging in](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt&title=Browse%20websites%20without%20logging%20in)
 
