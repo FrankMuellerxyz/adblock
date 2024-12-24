@@ -4,6 +4,8 @@
 
 ## [Brave Shield](brave://settings/shields/filters)
 
+`brave://settings/shields/filters`
+
 To add the lists shown in the above picture click each link 
 
 To add block lists to brave, such as on
